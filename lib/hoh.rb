@@ -21,14 +21,13 @@ PORTION_2 = {
 PORTION_3 = {
   label: "Family",
   sub_category: {
-    label: "Genus","Order"
+    label: "Genus",
   }
 }
 
 PORTION_4 = {
   label: "Species",
   sub_category: nil
-    label: "Species"
 }
 
 def naming_system
